@@ -1,0 +1,14 @@
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\bin\Debug\net9.0\Data Transportation Protocol.exe
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\bin\Debug\net9.0\Data Transportation Protocol.deps.json
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\bin\Debug\net9.0\Data Transportation Protocol.runtimeconfig.json
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\bin\Debug\net9.0\Data Transportation Protocol.dll
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\bin\Debug\net9.0\Data Transportation Protocol.pdb
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\obj\Debug\net9.0\Data Transportation Protocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\obj\Debug\net9.0\Data Transportation Protocol.AssemblyInfoInputs.cache
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\obj\Debug\net9.0\Data Transportation Protocol.AssemblyInfo.cs
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\obj\Debug\net9.0\Data Transportation Protocol.csproj.CoreCompileInputs.cache
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\obj\Debug\net9.0\Data Transportation Protocol.dll
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\obj\Debug\net9.0\refint\Data Transportation Protocol.dll
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\obj\Debug\net9.0\Data Transportation Protocol.pdb
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\obj\Debug\net9.0\Data Transportation Protocol.genruntimeconfig.cache
+C:\Users\aigne\source\Data_Transportation_Protocol\Data Transportation Protocol\Data Transportation Protocol\obj\Debug\net9.0\ref\Data Transportation Protocol.dll
